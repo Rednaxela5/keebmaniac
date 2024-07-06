@@ -1,0 +1,22 @@
+.fit-cover {
+  object-fit: cover;
+}
+
+.card-body p {
+  height: 140px;
+}
+
+.page-footer li {
+  margin-bottom: 10px;
+}
+
+.container h2 {
+  color: #202020;
+  margin: 30px 0px 30px 0px;
+  font-weight: 650;
+}
+
+.para-sec {
+  margin: 75px 0px 75px 0px;
+}
+
