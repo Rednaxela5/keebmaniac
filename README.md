@@ -79,7 +79,7 @@ The following tools and technologies were involved in the making of this project
 -   [x] ~~Design the website in Figma.~~
 -   [x] ~~Convert the design to front end web development.~~
 -   [ ] Create the database.
--   [ ] Continue with the back end development.
+-   [ ] Continue with the back end development.`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
