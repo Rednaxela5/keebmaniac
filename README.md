@@ -22,51 +22,45 @@ Take a look at some screenshots showcasing the website's design and functionalit
 <table>
    <tr>
         <td>
-            <img src="assets/readme-screenshots/Real Website/01 Homepage.png" alt="Homepage" />
+            <img src="assets/readme-screenshots/01 Home Page.png" alt="Homepage" />
             <br />
             <p align="center">Homepage</p></td>
         <td>
-            <img src="assets/readme-screenshots/Real Website/02_2 Login Page.png" alt="Login Page" />
+            <img src="assets/readme-screenshots/02 Sign Up.png" alt="Sign Up" />
+            <br />
+            <p align="center">Sign Up</p></td>
+    </tr>
+    <tr>
+        <td>
+            <img src="assets/readme-screenshots/03 Login.png" alt="Login Page" />
             <br />
             <p align="center">Login Page</p></td>
+        <td>
+            <img src="assets/readme-screenshots/04 Typing Test.png" alt="Typing Test" />
+            <br />
+            <p align="center">Typing Test</p></td>
     </tr>
     <tr>
         <td>
-            <img src="assets/readme-screenshots/Real Website/03_2 Application for ReAdmission Page.png" alt="Applicant Info Page" />
+            <img src="assets/readme-screenshots/05 Typing Test - Statistics.png" alt="Statistics" />
             <br />
-            <p align="center">Applicant Info Page</p></td>
+            <p align="center">Typing Statistics</p></td>
         <td>
-            <img src="assets/readme-screenshots/Real Website/04_2 Personal Background Page.png" />
+            <img src="assets/readme-screenshots/06 Profile Overview.png" alt="Profile Overview" />
             <br />
-            <p align="center">Personal Background Page</p></td>
+            <p align="center">Profile Overview</p></td>
     </tr>
     <tr>
         <td>
-            <img src="assets/readme-screenshots/Real Website/05_2 Academic Background Page.png" alt="Academic Background" />
+            <img src="assets/readme-screenshots/07 Start Learning Menu.png" alt="Learning Menu" />
             <br />
-            <p align="center">Academic Background</p></td>
+            <p align="center">Learning Menu</p></td>
         <td>
-            <img src="assets/readme-screenshots/Real Website/06_2 Upload Documents Page.png" alt="Upload Documents" />
+            <img src="assets/readme-screenshots/08 Learning Page.png" alt="Learning Page" alt="Learning Page"/>
             <br />
-            <p align="center">Upload Documents</p></td>
+            <p align="center">Learning Page</p></td>
     </tr>
-    <tr>
-        <td>
-            <img src="assets/readme-screenshots/Real Website/07 Thank You Page.png" alt="Thank You Pagee" />
-            <br />
-            <p align="center">Thank You Page</p></td>
-        <td>
-            <img src="assets/readme-screenshots/Real Website/08_2 About Page.png" alt="About Page" />
-            <br />
-            <p align="center">About Page</p></td>
-    </tr>
-    <tr>
-      <td colspan="2">  
-          <img src="assets/readme-screenshots/Real Website/Application Status Page.png" />
-          <br />
-          <p align="center">Thank You Page</p>  
-      </td>
-    </tr>
+    
       
 </table> 
 
@@ -83,7 +77,7 @@ The following tools and technologies were involved in the making of this project
 
 ## Roadmap
 -   [x] ~~Design the website in Figma.~~
--   [ ] Convert the design to front end web development.
+-   [x] ~~Convert the design to front end web development.~~
 -   [ ] Create the database.
 -   [ ] Continue with the back end development.
 
